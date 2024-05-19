@@ -58,7 +58,7 @@ ORDER BY
 # Dashboard
 The "Superstore Sales" dashboard provides a comprehensive overview of sales and profit data from 2014 to 2017. It features a map showing total profit by state, bar charts displaying sales by category and profit by region, and a pie chart illustrating profit distribution by customer segment. Additionally, the dashboard highlights the top five most and least profitable products, alongside a bar chart for profit by various product categories. This visualization aids in identifying key areas of profitability and areas needing improvement.
 ![alt text](Superstore_dashoard.png)
-Link to Tableau Dashboard.[[Superstore_sales]] (https://public.tableau.com/app/profile/amit.pandit8190/viz/Superstore_Sales_17157222217720/Dashboard1?publish=yes)
+Link to Tableau Dashboard.[Superstore_sales](https://public.tableau.com/app/profile/amit.pandit8190/viz/Superstore_Sales_17157222217720/Dashboard1?publish=yes)
 
 # Observation
 The analysis of the Superstore dataset reveals significant insights into sales and profitability trends. The West region is the most profitable, with technology and office supplies being the top-selling categories. While certain products like the Canon imageCLASS 2200 Advanced Copier generate high profits, others such as the Cubify CubeX 3D Printer lead to losses. The data suggests a need for strategic focus on high-margin products and regions, along with efforts to address underperforming products and regions to optimize overall profitability.
